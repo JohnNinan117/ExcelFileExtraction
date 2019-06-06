@@ -1,0 +1,18 @@
+,DATE,FLEET NO.,LOCATION,DIRECTION,ACCIDENT DETAILS
+0,2000-05-03,T 717,Lauderdale Ave,N,Pedestrian walks into side of tram
+1,2000-07-13,T 716,Lauderdale Ave,S,Car pulls out of Kelso Ave into path of tram
+2,2000-11-25,T 626,Lauderdale Ave,S,Car pulls out of Kelso Ave into path of tram
+3,2001-07-17,T 704,Lauderdale Ave,S,"Car stationary in traffic, tram unable to stop in time"
+4,2002-09-21,T 647,Lauderdale Ave,S,Car unable to clear junction then hit by tram
+5,2002-10-05,T 646,Lauderdale Ave,N,Car turns into path of tram
+6,2002-12-07,T 707,Lauderdale Ave,S,Car turns right into path of tram
+7,2003-03-02,T 673,Lauderdale Ave,S,Passenger trips on boarding
+8,2003-04-13,T 641,Lauderdale Ave,S,Car turns into path of tram injuring passenger
+9,2003-07-02,T 673,Lauderdale Ave,N,Car turns into path of tram   
+10,2003-08-15,T 644,Lauderdale Ave,S,Car turns right into path of tram
+11,2005-05-09,T 643,Lauderdale Ave,S,Tram hit car crossing track
+12,2005-11-03,T 641,Lauderdale Ave,N,Truck southbound turns into path of tram
+13,2005-12-30,T 646,Lauderdale Ave,S,Car turns right into path of tram
+14,2006-01-27,T 641,Lauderdale Ave,S,Car turns right into path of tram 
+15,2006-07-04,T 711,Lauderdale Ave,S,Car turns right into path of tram
+16,2007-10-18,T 710,Lauderdale Ave,S,Car turns right into path of tram
